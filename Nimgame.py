@@ -1,4 +1,4 @@
-# 2a
+
 print("Nim game!!\nWe are having 12 tokens")
 def getTokens(curTokens):
     global tokens
